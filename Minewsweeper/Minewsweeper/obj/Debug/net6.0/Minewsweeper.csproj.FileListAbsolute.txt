@@ -1,0 +1,15 @@
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.csproj.AssemblyReference.cache
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.AssemblyInfoInputs.cache
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.AssemblyInfo.cs
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.csproj.CoreCompileInputs.cache
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\bin\Debug\net6.0\Minewsweeper.exe
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\bin\Debug\net6.0\Minewsweeper.deps.json
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\bin\Debug\net6.0\Minewsweeper.runtimeconfig.json
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\bin\Debug\net6.0\Minewsweeper.dll
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\bin\Debug\net6.0\Minewsweeper.pdb
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.dll
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\refint\Minewsweeper.dll
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.pdb
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\Minewsweeper.genruntimeconfig.cache
+C:\Users\xtam1\Desktop\c-sharp\Minewsweeper\Minewsweeper\obj\Debug\net6.0\ref\Minewsweeper.dll
